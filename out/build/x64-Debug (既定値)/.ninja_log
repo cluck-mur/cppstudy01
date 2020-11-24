@@ -1,0 +1,16 @@
+# ninja log v5
+0	1484	627828359	cppstudy01/CMakeFiles/cppstudy01.dir/cppstudy01.cpp.obj	8b462d1c880ea9ac
+1485	2618	627828360	cppstudy01/cppstudy01.exe	33cbe8d1dc664754
+0	717	627828666	cppstudy01/CMakeFiles/cppstudy01.dir/cppstudy01.cpp.obj	8b462d1c880ea9ac
+718	1130	627828666	cppstudy01/cppstudy01.exe	33cbe8d1dc664754
+0	523	627828700	cppstudy01/CMakeFiles/cppstudy01.dir/cppstudy01.cpp.obj	8b462d1c880ea9ac
+524	995	627828700	cppstudy01/cppstudy01.exe	33cbe8d1dc664754
+1	568	627829066	cppstudy01/CMakeFiles/cppstudy01.dir/cppstudy01.cpp.obj	8b462d1c880ea9ac
+569	872	627829066	cppstudy01/cppstudy01.exe	33cbe8d1dc664754
+0	34	0	clean	9992afb1f91dc381
+1	1269	627883217	cppstudy01/CMakeFiles/cppstudy01.dir/cppstudy01.cpp.obj	8b462d1c880ea9ac
+4	1286	627883217	cppstudy01/CMakeFiles/cppstudy01.dir/HelloWorld.cpp.obj	297e8b49460cd1e0
+1294	2660	627883218	cppstudy01/cppstudy01.exe	5bdfb11ec63993f8
+4	612	627883300	cppstudy01/CMakeFiles/cppstudy01.dir/HelloWorld.cpp.obj	297e8b49460cd1e0
+1	618	627883300	cppstudy01/CMakeFiles/cppstudy01.dir/cppstudy01.cpp.obj	8b462d1c880ea9ac
+625	1056	627883300	cppstudy01/cppstudy01.exe	5bdfb11ec63993f8
