@@ -7,4 +7,4 @@
 #include <string>
 
 // TODO: プログラムに必要な追加ヘッダーをここで参照します。
-#include "HelloWorld.h"
+#include "speaker.h"

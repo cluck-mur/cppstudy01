@@ -2,16 +2,16 @@
 
 using namespace std;
 
-HelloWorld::HelloWorld() {
+speaker::speaker() {
 	mMessage = "HelloWorld!!";
 };
 
-HelloWorld::~HelloWorld() {
+speaker::~speaker() {
 };
 
 /*
 * ‰æ–Ê‚ÉmMessage‚Ì“à—e‚ğ•\¦‚·‚éB
 */
-void HelloWorld::say() {
+void speaker::speak() {
 	printf(mMessage.c_str());
 };

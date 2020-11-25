@@ -4,6 +4,6 @@
 cmake_minimum_required (VERSION 3.8)
 
 # ソースをこのプロジェクトの実行可能ファイルに追加します。
-add_executable (cppstudy01 "cppstudy01.cpp" "cppstudy01.h" "HelloWorld.cpp" "HelloWorld.h")
+add_executable (cppstudy01 "cppstudy01.cpp" "cppstudy01.h" "speaker.cpp" "speaker.h" )
 
 # TODO: テストを追加し、必要な場合は、ターゲットをインストールします。

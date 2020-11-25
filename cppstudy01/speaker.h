@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class HelloWorld {
+class speaker {
 private:
 	string mMessage;
 
@@ -11,15 +11,15 @@ public:
 	/*
 	* コンストラクタ―
 	*/
-	HelloWorld();
+	speaker();
 
 	/*
 	* デストラクター
 	*/
-	~HelloWorld();
+	~speaker();
 
 	/*
 	* 画面にmMessageの内容を表示する。
 	*/
-	void say();
+	void speak();
 };

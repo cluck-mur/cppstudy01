@@ -4,10 +4,16 @@
 #include "cppstudy01.h"
 using namespace std;
 
+/*
+* main関数
+* このアプリケーションはここから開始される（エントリーポイント）
+*/
 int main()
 {
-	HelloWorld* hello_world = new HelloWorld();
-	hello_world->say();
+	// speakerクラスをオブジェクト化
+	speaker* pspeaker = new speaker();
+	// 出力を命令する
+	pspeaker->speak();
 
 	return 0;
 };
